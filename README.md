@@ -26,4 +26,4 @@
 </table>
 
 ---
-<sub>📫 Reach me: [LinkedIn](https://linkedin.com/in/yossrizal) · [Portfolio](https://yossrizal.my.id) · Last updated: 2025-09-30</sub>
+<sub>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yossrizal-ramadhan) · [Portfolio](https://yossrizal.my.id) · Last updated: 2025-09-30</sub>
