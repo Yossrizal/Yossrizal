@@ -23,11 +23,6 @@
     <td><strong>Hotel Ticketing App</strong><br><em>Laravel, Bootstrap</em><br>Room booking, availability calendar, and automated billing.</td>
     <td><strong>Barcode Inventory App</strong><br><em>Web & Android</em><br>Barcode scanning with realtime stock updates and reports.</td>
   </tr>
-  <tr>
-    <td><strong>PC Build Web & Discord Bot</strong><br><em>Web App, Bot Dev</em><br>Compatibility checker site plus automation and support bot.</td>
-    <td><strong>More Projects</strong><br><em>Coming Soon</em><br>Additional case studies and experiments on the way.</td>
-    <td>&nbsp;</td>
-  </tr>
 </table>
 
 ---
